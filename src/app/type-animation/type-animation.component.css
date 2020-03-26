@@ -1,0 +1,22 @@
+.tittle {
+  background-color: black;
+  padding-bottom: 5em;
+}
+
+h1.name {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-weight: 200;
+  padding-top: 5em;
+  font-size: 3em;
+  color: gray;
+}
+
+h1.tittle_animate {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-weight: 200;
+  margin-bottom: 10em;
+  font-size: 3.5em;
+  color: gray;
+}
