@@ -16,3 +16,11 @@
   width: 12rem;
   margin-right: 0.625rem;
 }
+
+.bar-style {
+  background-color: #687681;
+}
+
+.bar-title {
+  margin-top: 1rem;
+}
