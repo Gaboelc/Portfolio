@@ -10,6 +10,7 @@ import { MaterialModule } from "./material/material.module";
 import { TypeAnimationComponent } from "./type-animation/type-animation.component";
 import { AboutMeComponent } from "./about-me/about-me.component";
 import { TimelineComponent } from "./timeline/timeline.component";
+import { ProyectsComponent } from './proyects/proyects.component';
 
 @NgModule({
   declarations: [
@@ -17,6 +18,7 @@ import { TimelineComponent } from "./timeline/timeline.component";
     TypeAnimationComponent,
     AboutMeComponent,
     TimelineComponent,
+    ProyectsComponent,
   ],
   imports: [
     BrowserModule,
